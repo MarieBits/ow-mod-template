@@ -2,8 +2,11 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ProjectView>ProjectFiles</ProjectView>
-    <GameDir>C:\Program Files (x86)\Steam\steamapps\common\OuterWilds</GameDir>
-    <OwmlDir>C:\Users\Rose Marie\AppData\Roaming\OuterWildsModManager\OWML</OwmlDir>
+    <GameDir>C:\Program Files (x86)\Steam\steamapps\common\OuterWilds\OuterWilds_Data\Managed</GameDir>
+    <OwmlDir>C:\Users\RoseMarie\AppData\Roaming\OuterWildsModManager\OWML</OwmlDir>
     <ModUniqueName>NoStaticNoPain</ModUniqueName>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ReferencePath>C:\Program Files (x86)\Steam\steamapps\common\Outer Wilds\OuterWilds_Data\Managed\</ReferencePath>
   </PropertyGroup>
 </Project>
